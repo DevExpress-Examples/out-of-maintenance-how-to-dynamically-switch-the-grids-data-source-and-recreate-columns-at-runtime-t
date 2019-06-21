@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to dynamically switch the grid's data source and recreate columns at runtime (the Master-Detail approach)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4451/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to allow a user to use the same master-detail grid to view different data sources. Grid columns are recreated when a new data source is assigned. </p><p><strong>See a</strong><strong>lso:</strong><br />
